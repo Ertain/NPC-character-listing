@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/right arrow.png-e4172284c7d2a7b0d7b571ddaf958eed.stex"
+
+[deps]
+
+source_file="res://2D assets/right arrow.png"
+source_md5="8904dea21d357b73986c257fe4262279"
+
+dest_files=[ "res://.import/right arrow.png-e4172284c7d2a7b0d7b571ddaf958eed.stex" ]
+dest_md5="97a5e5fbb82fb9db8e01534a9d3e6c66"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
