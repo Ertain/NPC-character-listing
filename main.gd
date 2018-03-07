@@ -11,8 +11,8 @@ func _ready():
     # All of the "jobs" an NPC can have.
     var jobs = ['peasent','aristocrat','farmer','soldier','warrior']
     # Fill up an array with the data for NPCs.
-    for i in range(0,4):
-        var job = jobs[ randi() % 5 ]
+    for i in range(0, jobs.size() ):
+        var job = jobs[ randi() % ( jobs.size() ) ]
         var gender =' male' if randf() > 0.5 else 'female'
         var npc = py_code.create_npc(gender, job)
         npcs.append(npc)
