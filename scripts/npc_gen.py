@@ -72,14 +72,14 @@ class CreateNpc:
     # This needs to have way more content for the different classes/professions that will be in the game. In fact, it may be better to have this detailed in a different file.
     stats = []
     if profession == "peasent":
-        	stats = [randint(6, 10), randint(6, 10), randint(6, 10), randint(4,8)]
+            stats = [randint(6, 10), randint(6, 10), randint(6, 10), randint(4,8)]
     elif profession == "farmer":
-        	stats = [randint(8,12), randint(7,10), randint(8,12), randint(5,9)]
+            stats = [randint(8,12), randint(7,10), randint(8,12), randint(5,9)]
     elif profession == "shopkeeper":
-        	stats = [randint(7,11), randint(9, 12), randint(7,11), randint(7,11)]
+            stats = [randint(7,11), randint(9, 12), randint(7,11), randint(7,11)]
     # Need to put this class in.
     elif profession == "knight":
-        	stats = [randint(10, 13) for i in range(4)]
+            stats = [randint(10, 13) for i in range(4)]
     elif profession == "warrior":
         stats = [randint(9, 15) for i in range(4)]
     elif profession == "aristocrat":
