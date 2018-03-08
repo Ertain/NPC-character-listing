@@ -18,6 +18,10 @@ config/icon="res://icon.png"
 
 singletons=[ "res://pythonscript.gdnlib" ]
 
+[logging]
+
+file_logging/max_log_files=5
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"

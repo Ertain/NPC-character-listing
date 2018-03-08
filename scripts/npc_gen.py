@@ -26,12 +26,17 @@ class CreateNpc:
         >>> foo.getStats()
         {'profession': 'peasent', 'stats': [6, 9, 7, 6], 'name': u'Michelle Bradley', 'personality': 'average_person'}
     """
-    self.profession = profession
-    self.gender = gender
-    self.character = dict()
     # Ensure that the caller passes a gender
     if not gender in ('male','female'):
          raise ValueError("Only the values 'male' and 'female' may be passed.")
+         return 1
+    # Ensure that the caller passed a proper profession.
+    if not profession in ('peasent','farmer','shopkeeper','knight','warrior','aristocrat'):
+        raise ValueError("Please pass a proper profession.")
+        return 2
+    self.profession = profession
+    self.gender = gender
+    self.character = dict()
     # This contains the four stats (Strength, Intelligence, Constitution, and Luck) for the NPC.
     self.character['stats'] = self.__assignStats(self.profession)
     # This gives a name which is full unicode, e.g. u'John Smith'.
