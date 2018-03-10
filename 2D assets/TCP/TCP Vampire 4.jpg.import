@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Vampire 4.jpg-653233a6bb2140f6e932cbb10bf9f65f.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Vampire 4.jpg"
+source_md5="d87c15cb4b4de83495f8c1ed7f9ffb64"
+
+dest_files=[ "res://.import/TCP Vampire 4.jpg-653233a6bb2140f6e932cbb10bf9f65f.stex" ]
+dest_md5="54cc3c2960345c4aa8f13be50847df21"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

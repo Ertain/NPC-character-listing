@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Hero 2.jpg-df039fea68af76da9b9b73e85e9722b8.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Hero 2.jpg"
+source_md5="b5a022f40517239ca6f3d268e9f53e2b"
+
+dest_files=[ "res://.import/TCP Hero 2.jpg-df039fea68af76da9b9b73e85e9722b8.stex" ]
+dest_md5="4a521f3ec5d1a8902abc103eaa8e8efd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

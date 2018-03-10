@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Cyberpunk 8.jpg-105a97dfa91604cdb976a921145c3279.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Cyberpunk 8.jpg"
+source_md5="ce8b17fcb95e627cfb4f52bb9280c684"
+
+dest_files=[ "res://.import/TCP Cyberpunk 8.jpg-105a97dfa91604cdb976a921145c3279.stex" ]
+dest_md5="56f663de8f982fb4535ab74e843824b0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

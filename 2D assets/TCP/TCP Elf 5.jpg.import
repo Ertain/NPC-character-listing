@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Elf 5.jpg-1797c4f12b57093139d6df8e272903eb.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Elf 5.jpg"
+source_md5="24ed51dd563953a0529f184d83c64d39"
+
+dest_files=[ "res://.import/TCP Elf 5.jpg-1797c4f12b57093139d6df8e272903eb.stex" ]
+dest_md5="265edb2cce54801f64040ed787d7f146"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Human 1.jpg-96db82d40ad2b92117518a65928a50de.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Human 1.jpg"
+source_md5="79ba6e7b33e4cded0a6506723164b179"
+
+dest_files=[ "res://.import/TCP Human 1.jpg-96db82d40ad2b92117518a65928a50de.stex" ]
+dest_md5="0e9d0820b35ea287f5d2b9bf340d9756"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

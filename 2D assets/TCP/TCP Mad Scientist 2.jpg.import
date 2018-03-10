@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Mad Scientist 2.jpg-263f9e532472420f6c3b6be0bc10d964.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Mad Scientist 2.jpg"
+source_md5="c6fdfc7123fc896d7f549a9740373e99"
+
+dest_files=[ "res://.import/TCP Mad Scientist 2.jpg-263f9e532472420f6c3b6be0bc10d964.stex" ]
+dest_md5="649e15c84cd3cef52c2dff53c9fbe7df"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

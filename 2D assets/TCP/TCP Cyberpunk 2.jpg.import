@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Cyberpunk 2.jpg-1eaea5a307e5ac290d2d96894717d3e2.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Cyberpunk 2.jpg"
+source_md5="be629bca3b4a20dbe33d40a8cfec8fd9"
+
+dest_files=[ "res://.import/TCP Cyberpunk 2.jpg-1eaea5a307e5ac290d2d96894717d3e2.stex" ]
+dest_md5="c6bf785ba26f459ed497b760e7332c5b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

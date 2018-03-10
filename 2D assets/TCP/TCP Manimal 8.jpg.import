@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Manimal 8.jpg-abae34d3a813cd59a9214e25b9d394c7.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Manimal 8.jpg"
+source_md5="88c1d78da86d01ab5942fbb265145361"
+
+dest_files=[ "res://.import/TCP Manimal 8.jpg-abae34d3a813cd59a9214e25b9d394c7.stex" ]
+dest_md5="24c8d67931af9132d39381943c6d5e24"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

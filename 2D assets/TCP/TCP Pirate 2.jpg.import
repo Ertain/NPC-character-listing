@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Pirate 2.jpg-fa11b4047e6068506136750965b6ca68.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Pirate 2.jpg"
+source_md5="59fb073b3a64587c2ca2425f9fb308ac"
+
+dest_files=[ "res://.import/TCP Pirate 2.jpg-fa11b4047e6068506136750965b6ca68.stex" ]
+dest_md5="eac1e02b7c2d963560704d13119455c0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

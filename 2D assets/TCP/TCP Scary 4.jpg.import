@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Scary 4.jpg-5683aadd2088959106371ad5f2c967d4.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Scary 4.jpg"
+source_md5="cc229ca1fe0f58e08a19a159e376a7db"
+
+dest_files=[ "res://.import/TCP Scary 4.jpg-5683aadd2088959106371ad5f2c967d4.stex" ]
+dest_md5="998b95e3402c9dc4cdeb77fa1b41bdfb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

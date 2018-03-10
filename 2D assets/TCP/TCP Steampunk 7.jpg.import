@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Steampunk 7.jpg-f590f4b847c27dc36bf6d8833431b3fd.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Steampunk 7.jpg"
+source_md5="6a1fd631e3b03d19a604f90b8929398d"
+
+dest_files=[ "res://.import/TCP Steampunk 7.jpg-f590f4b847c27dc36bf6d8833431b3fd.stex" ]
+dest_md5="89a514124f6094924a84df026f121e07"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

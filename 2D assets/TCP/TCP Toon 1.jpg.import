@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Toon 1.jpg-3710e01557320ce092fb10ba52af44b9.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Toon 1.jpg"
+source_md5="e0d89a35af56844bbc957291404b9b03"
+
+dest_files=[ "res://.import/TCP Toon 1.jpg-3710e01557320ce092fb10ba52af44b9.stex" ]
+dest_md5="030fe1b69f3cc4a0848b97073a125f43"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Zombie 3.jpg-abaf2c62814b35ca8e447875245d60f6.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Zombie 3.jpg"
+source_md5="47d4d6a66be009d5b0f2a21a30e9c8fe"
+
+dest_files=[ "res://.import/TCP Zombie 3.jpg-abaf2c62814b35ca8e447875245d60f6.stex" ]
+dest_md5="c7fa13b606bd12866bcc13962291af12"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
