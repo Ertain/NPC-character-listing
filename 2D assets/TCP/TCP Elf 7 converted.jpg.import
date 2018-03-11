@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Elf 7 converted.jpg-4a7b78ec42d49f8bf7af3a3ca66bcfdf.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Elf 7 converted.jpg"
+source_md5="60cc51563639852f5db8c1b5f1d026e0"
+
+dest_files=[ "res://.import/TCP Elf 7 converted.jpg-4a7b78ec42d49f8bf7af3a3ca66bcfdf.stex" ]
+dest_md5="da2480e580267a0efecf11a1e7d09a76"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

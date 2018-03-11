@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Robot 2 converted.jpg-d087913f46416f8f43cca5a693177ea1.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Robot 2 converted.jpg"
+source_md5="32df71a1ae8f3367c05669fe8db8a0ae"
+
+dest_files=[ "res://.import/TCP Robot 2 converted.jpg-d087913f46416f8f43cca5a693177ea1.stex" ]
+dest_md5="c0b0d68ae6f4477fc54404039c1eddda"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

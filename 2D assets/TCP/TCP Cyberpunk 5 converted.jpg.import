@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Cyberpunk 5 converted.jpg-eefc19d6461a4d06c19a46385431715e.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Cyberpunk 5 converted.jpg"
+source_md5="61b5e626626479f8c2e991c685e084cc"
+
+dest_files=[ "res://.import/TCP Cyberpunk 5 converted.jpg-eefc19d6461a4d06c19a46385431715e.stex" ]
+dest_md5="8d3568d8be914483e8e28de306458eee"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

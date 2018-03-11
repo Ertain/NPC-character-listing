@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Armored 6 converted.jpg-d4d1c8f6c6fb2660b6da0ed8add5e563.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Armored 6 converted.jpg"
+source_md5="b61d82980294b97fb4c01b819f9e0d8e"
+
+dest_files=[ "res://.import/TCP Armored 6 converted.jpg-d4d1c8f6c6fb2660b6da0ed8add5e563.stex" ]
+dest_md5="5e7f07fd8d0a7fab2f3af2769b4d5652"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

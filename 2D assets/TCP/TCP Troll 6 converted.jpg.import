@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Troll 6 converted.jpg-c8b42c3764ed72f2040152458909248a.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Troll 6 converted.jpg"
+source_md5="0e276862f0b2585a7e933f53308b6039"
+
+dest_files=[ "res://.import/TCP Troll 6 converted.jpg-c8b42c3764ed72f2040152458909248a.stex" ]
+dest_md5="1f574f10f69c30cbcbea4e2cf304cea8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

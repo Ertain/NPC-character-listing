@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Dwarf 4 converted.jpg-f7e3924528068f2a7f58055bd9fe98cd.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Dwarf 4 converted.jpg"
+source_md5="4c8b9a15a13ad24620785f2b5720f8f1"
+
+dest_files=[ "res://.import/TCP Dwarf 4 converted.jpg-f7e3924528068f2a7f58055bd9fe98cd.stex" ]
+dest_md5="b8c617bc63187ffff157fdcaf521be79"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

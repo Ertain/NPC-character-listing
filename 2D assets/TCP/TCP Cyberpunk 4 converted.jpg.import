@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Cyberpunk 4 converted.jpg-9a4224e97870562eb189673c0df00560.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Cyberpunk 4 converted.jpg"
+source_md5="7a41fc6798a33fc38fc9cb9b254e7a90"
+
+dest_files=[ "res://.import/TCP Cyberpunk 4 converted.jpg-9a4224e97870562eb189673c0df00560.stex" ]
+dest_md5="9712d371d132eb93150a270194ec6e54"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

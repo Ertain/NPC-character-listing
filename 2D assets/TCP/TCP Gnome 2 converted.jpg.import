@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Gnome 2 converted.jpg-6715adc9c0d58c25ec9eccc6885f323b.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Gnome 2 converted.jpg"
+source_md5="198285b3c62746816976c7f3443aa426"
+
+dest_files=[ "res://.import/TCP Gnome 2 converted.jpg-6715adc9c0d58c25ec9eccc6885f323b.stex" ]
+dest_md5="3e9d41771a48b370d9330b55e124a062"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

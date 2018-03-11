@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Cyberpunk 9 converted.jpg-6c65b8673b7c18f29102deedc5364936.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Cyberpunk 9 converted.jpg"
+source_md5="bde9e819d066b0c37658efb4e62eac9a"
+
+dest_files=[ "res://.import/TCP Cyberpunk 9 converted.jpg-6c65b8673b7c18f29102deedc5364936.stex" ]
+dest_md5="86eda413a60a0f2c480719d24720a9ee"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

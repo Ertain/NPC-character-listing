@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/TCP Cyberpunk 7 converted.jpg-84c8944e73ca8f9aa120ac83d216ce33.stex"
+
+[deps]
+
+source_file="res://2D assets/TCP/TCP Cyberpunk 7 converted.jpg"
+source_md5="3a392ab950b3a4fa5e3f49adcb3270f8"
+
+dest_files=[ "res://.import/TCP Cyberpunk 7 converted.jpg-84c8944e73ca8f9aa120ac83d216ce33.stex" ]
+dest_md5="6d4a20bbfcc47e7c9109d90b432f7dbe"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
