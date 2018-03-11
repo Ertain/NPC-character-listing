@@ -41,7 +41,11 @@ class CreateNpc:
     self.character['stats'] = self.__assignStats(self.profession)
     # This gives a name which is full unicode, e.g. u'John Smith'.
     self.character['name'] = names.get_full_name(gender=self.gender)
+    # Assign the NPC's gender
+    self.character['gender'] = self.gender
+    # Assign the NPC's profession, i.e. their job.
     self.character['profession'] = self.profession
+    # Set the NPC's personality.
     self.character['personality'] = self.__assignPersonality(self.character['stats'])
 
   def getStats(self):
