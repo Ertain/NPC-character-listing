@@ -7,13 +7,14 @@ onready var personality_label = get_node("background/Layout/Info/HBoxContainer/V
 onready var job_label = get_node("background/Layout/Info/HBoxContainer/VBoxContainer/Job")
 onready var profile_picture = get_node("background/Layout/Info/HBoxContainer/Profile pic")
 # And now, many NPC portraits
-onready var warrior_male_portrait01 = load("res://2D assets/TCP/TCP Armored 2.jpg")
-onready var warrior_male_portrait02 = load("res://2D assets/TCP/TCP Armored 4.jpg")
-onready var peasent_male_portrait01 = load("res://2D assets/TCP/TCP Dwarf 3.jpg")
+onready var warrior_male_portrait01 = load("res://2D assets/TCP/TCP Armored 2 converted.jpg")
+onready var warrior_male_portrait02 = load("res://2D assets/TCP/TCP Armored 4 converted.jpg")
+onready var peasent_male_portrait01 = load("res://2D assets/TCP/TCP Dwarf 3 converted.jpg")
 # Ain't she a looker?
-onready var warrior_female_portrait01 = load("res://2D assets/TCP/TCP Armored 5.jpg")
-onready var peasent_female_portrait02 = load("res://2D assets/TCP/TCP Dwarf 2.jpg")
+onready var warrior_female_portrait01 = load("res://2D assets/TCP/TCP Armored 5 converted.jpg")
+onready var peasent_female_portrait02 = load("res://2D assets/TCP/TCP Dwarf 2 converted.jpg")
 var npcs = []
+var placeholder
 
 func add_or_subtract(modifier):
     if modifier == "-1":
@@ -24,6 +25,8 @@ func add_or_subtract(modifier):
 
 func _ready():
     randomize()
+    # The placeholder texture for the profile pic.
+    placeholder = profile_picture.texture
     # All of the "jobs" an NPC can have.
     var jobs = ['peasent','aristocrat','farmer','shopkeeper','warrior']
     # Fill up an array with the data for NPCs.
@@ -46,6 +49,8 @@ func _process(change_in_frame):
     job_label.text = "Job: " + npcs[COUNT]['profession']
     if npcs[COUNT].has('profile pic'):
         profile_picture.texture = npcs[COUNT]['profile pic']
+    else:
+        profile_picture.texture = placeholder
 
 func _on_Left_Arrow_pressed():
     add_or_subtract("-1")

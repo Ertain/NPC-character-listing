@@ -199,7 +199,7 @@ size_flags_horizontal = 2
 size_flags_vertical = 6
 texture = ExtResource( 4 )
 stretch_mode = 0
-_sections_unfolded = [ "Focus", "Margin", "Mouse", "Rect", "Size Flags", "Visibility" ]
+_sections_unfolded = [ "Focus", "Mouse", "Rect", "Size Flags", "Visibility" ]
 
 [node name="Arrows" type="MarginContainer" parent="background/Layout" index="1"]
 
