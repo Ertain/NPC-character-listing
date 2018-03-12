@@ -36,7 +36,7 @@ func _ready():
         var gender ='male' if randf() > 0.5 else 'female'
         # Create an NPC
         var npc = py_code.create_npc(gender, job)
-        if npc['gender'] == 'female' and npc['profession'] == 'peasent':
+        if npc['gender'] == 'female' and npc['profession'] == 'peasent' and npc['personality'] == 'average_person':
             npc['profile pic'] = peasent_female_portrait02
         if npc['gender'] == 'male' and npc['profession'] == 'peasent':
             npc['profile pic'] = peasent_male_portrait01
