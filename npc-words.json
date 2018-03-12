@@ -1,0 +1,85 @@
+{
+  "dialogue" : [
+    {
+        "pattern" : "I am here to protect this {town|village}.",
+        "rules" : {
+            "personality" : "good_guy", "job" : "warrior"
+        }
+    },
+    {
+        "pattern" : "Welcome to our {village|town}! How can I help you?",
+        "rules" : {
+            "personality" : "good_guy", "job" : "warrior", "action" : "greeting"
+        }  
+    },
+    {
+        "pattern" : "Hail, stranger.",
+        "rules" : {
+            "personality" : "average_person", "job" : "warrior", "action" : "greeting"
+        }  
+    },
+    {
+        "pattern" : "Halt, stranger! State your business!",
+        "rules" : {
+            "personality" : "xenophobe", "job" : "warrior", "action" : "greeting"
+        }  
+    },
+    {
+        "pattern" : "The plants look funny, especially the {big brown|large reddish} {leafy|leaf-like} things.",
+        "rules" : {
+            "personality" : "buffoon", "job" : "peasent", "season" : "autumn", "event" : "leaves falling"
+        }  
+    },
+    {
+        "pattern" : "Seen any good {pumpkins|apples|squashes} around here?",
+        "rules" : {
+            "personality" : "average_person", "job" : "farmer", "want" : "vegetables", "action" : "question", "season" : "autumn"
+        }  
+    },
+    {
+        "pattern" : "How are things with you?",
+        "rules" : {
+            "personality" : "average_person", "job" : "peasent", "action" : "greeting"
+        }  
+    },
+    {
+        "pattern" : "See this house? It took me {three weeks| twelve days} to {build this house|this backyard}. And I barely broke a sweat",
+        "rules" : {
+            "personality" : "over_achiever", "job" : "farmer", "place" : "house"
+        }  
+    },
+    {
+        "pattern" : "It's becoming colder around here.",
+        "rules" : {
+            "personality" : "average_person", "job" : "peasent", "mood" : "cold"
+        }  
+    },
+    {
+        "pattern" : "I have fields which need tending to!",
+        "rules" : {
+            "personality" : "average_person", "job" : "farmer", "state" : "tending", "action" : "farming"
+        }  
+    },
+    {
+        "pattern" : "Ugh, my house needs to be re-thatched, and I need to collect wood.",
+        "rules" : {
+            "personality" : "average_person" , "job" : "peasent", "place" : "house"
+        }  
+    },
+    {
+        "pattern" : "",
+        "rules" : {
+        }  
+    },
+    {
+        "pattern" : "",
+        "rules" : {
+        }  
+    },
+    {
+        "pattern" : "",
+        "rules" : {
+        }  
+    }
+  ]
+}
