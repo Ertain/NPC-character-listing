@@ -67,6 +67,72 @@
         }  
     },
     {
+    "pattern": "I'm a guard in this town. What business do you have here?",
+     "rules": {
+          "job": "warrior", "personality": "average_person", "action": "inquiry", "place": "town"
+       }
+   },
+   {
+    "pattern" : "You know what smells? [x:animal;locked]{Cows|Chickens|Goats}. But I have to [x:animal;locked]{milk|pick up after|graze} them regularly.",
+    "rules" : {
+        "personality" : "average_person", "job" : "farmer", "mood" : "mad", "action" : "clean-up"
+        }   
+    },
+   {
+    "pattern" : "How can all of these {animals|creatures} {defecate|poop} so much?!",
+    "rules" : {
+        "personality" : "fancy_pants", "job" : "farmer", "item" : "dung", "mood" : "angry"
+        }   
+    },
+   {
+    "pattern" : "My {cows|chickens} {look so {drab|tacky}|have such a {drab|tacky} appearance}. Maybe I can put some {hats|jackets} on them?",
+    "rules" : {
+        "personality" : "fancy_pants", "job" : "farmer", "item" : "clothes", "mood" : "inquiry"
+        }   
+    },
+   {
+    "pattern" : "Hello! Don't I look fabulous?",
+    "rules" : {
+        "personality" : "fancy_pants", "job" : "peasent"
+        }   
+    },
+   {
+    "pattern" : "{Get away from here|Leave this place}, you {adventurers|weirdos}! I'll use my golden pitchfork on you, I will!",
+    "rules" : {
+        "personality" : "xenophobe", "job" : "farmer", "mood" : "frantic", "item" : "pitchfork"
+        }   
+    },
+   {
+    "pattern" : "This is a good day. Just smell that fresh air!",
+    "rules" : {
+        "personality" : "tree_hugger", "job" : "peasent"
+        }   
+    },
+   {
+    "pattern" : "Oh, hello there.",
+    "rules" : {
+        "personality" : "xenophobe", "job" : "peasent"
+        }   
+    },
+   {
+    "pattern" : "Hi, there. Don't mind {if I step on my toes|stub my toe}.",
+    "rules" : {
+        "personality" : "klutz", "job" : "peasent"
+        }   
+    },
+   {
+    "pattern" : "Hail, I'm the owner of a shop.",
+    "rules" : {
+        "personality" : "average_person", "job" : "shopkeeper"
+        }   
+    },
+   {
+    "pattern" : "For {those|patrons|customers} who {require|need} [x:t;locked]{fine|great|wonderful} {goods|services}, I will {provide|sell} them at a [x:t;locked]{fine|great|wonderful} price.",
+    "rules" : {
+        "personality" : "average_person", "job" : "shopkeeper", "action" : "marketing"
+        }   
+    },
+    {
         "pattern" : "",
         "rules" : {
         }  
