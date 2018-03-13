@@ -130,7 +130,31 @@
     "pattern" : "For {those|patrons|customers} who {require|need} [x:t;locked]{fine|great|wonderful} {goods|services}, I will {provide|sell} them at a [x:t;locked]{fine|great|wonderful} price.",
     "rules" : {
         "personality" : "average_person", "job" : "shopkeeper", "action" : "marketing"
-        }   
+        }
+   },
+    {
+        "pattern" : "This looks like a good day for pie.",
+        "rules" : {
+            "personality" : "average_person", "job" : "peasent", "mood" : "happy", "season" : "autumn"
+        }  
+    },
+    {
+        "pattern" : "The {hay|trail} rides are going to be fun this {year|season}!",
+        "rules" : {
+        "personality" : "average_person", "mood" : "cheerful", "season" : "autumn"
+        }  
+    },
+    {
+        "pattern" : "I'm having {a few friends|company} over to celebrate {autumn|the falling leaves}.",
+        "rules" : {
+        "personality" : "average_person", "season" : "autumn", "mood": "cheerful", "event" : "celebration"
+        }  
+    },
+    {
+        "pattern" : "I {get up|wake up early}, {eat an egg|down some egg yolks}{, eat a bunch of fresh fruits|, eat some lettuce| }, and have some {whey protein|soy juice}. {I'm|I am} {content|wonderful}!",
+        "rules" : {
+        "personality" : "health_nut", "job" : "farmer", "mood" : "energetic"
+        }  
     },
     {
         "pattern" : "",
